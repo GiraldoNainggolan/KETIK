@@ -25,9 +25,10 @@
                                 @else
                                 
                                 <a href="{{ route('login') }}"
-                                class="inline-block rounded-md border border-transparent bg-[#2196F3] px-7 py-3 text-base font-medium text-white transition hover:bg-opacity-90 mt-96 translate-x-[300px] translate-y-2">
+                                class="inline-block rounded-md border border-transparent bg-[#2196F3] px-7 py-3 text-base font-medium text-white transition hover:bg-opacity-90 mt-96 translate-x-[300px] translate-y-1">
                                 Get Started now
-                            </a>                                                                                                             
+                            </a>
+                                                                                                             
                                 @endif
 
 
